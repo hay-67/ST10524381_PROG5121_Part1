@@ -8,7 +8,7 @@
 ---
 
 ## Project Information
-This project is a java-based login system for a chat application. it allows users to register by entering a username, password, and phone number. The system validates the input, and then allows the user to log in using the registered details.
+This project is a java-based login system for a chat application. It allows users to register by entering a username, password, and phone number. The system validates the input, and then allows the user to log in using the registered details.
 
 ---
 
