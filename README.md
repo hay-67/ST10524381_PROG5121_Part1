@@ -51,4 +51,24 @@ This project is a java-based login system for a chat application. it allows user
 ### LoginTest.java
 - Contains unit tests using junit
 - Tests all validation methods
-- Tests login 
+- Tests login
+
+
+## Testing
+
+JUnit was used to test the functionlality of the program, and the following were tested:
+- Valid and invalid usernames
+- Valid and invalid passwords
+- Valid and invalid phone numbers
+- Successful and unsuccessful login attempts
+- Login status messages
+
+## Program Flow
+- Starts in MainApp class.
+- User is prompted to enter their details to register.
+- Input is validated using methods in Login class.
+- If all the user inputs are valid, the user details are stored.
+- Program then prompts the user to login.
+- Login details are then compared with the stored data.
+- Success or failure message is displayed.
+
